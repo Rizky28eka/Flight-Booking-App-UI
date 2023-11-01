@@ -11,3 +11,5 @@ Here are the Flutter libraries utilized in this project:
 - **get:** Get is a lightweight and powerful solution for Flutter that provides state management, dependency injection, navigation, and other features. You can use this library to simplify your code and improve your app's performance.
 
 - **barcode_widget:** Barcode Widget offers a widget for displaying barcodes in various formats, such as QR codes, EAN, UPC, and more. You can use this widget to generate and scan barcodes in your app.
+
+[Instagram Posted](https://www.instagram.com/p/CzHd-JeSogW/)
